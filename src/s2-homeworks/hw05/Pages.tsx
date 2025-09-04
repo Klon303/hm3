@@ -1,4 +1,3 @@
-import React from "react";
 import { Routes, Route, Navigate, NavLink } from "react-router-dom";
 import Error404 from "./pages/Error404";
 import PreJunior from "./pages/PreJunior";
